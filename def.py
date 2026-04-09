@@ -18,4 +18,3 @@ def calculer_tva(prix, taux=0.20):
     return prix_ttc
 if __name__ == "__main__":    prix = 100
 print(calculer_tva(prix))
-
